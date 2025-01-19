@@ -49,4 +49,4 @@ Users can enter the Order ID in the Search bar to track their order.
 
 React Router’s programmatic navigation is used to redirect users to different pages based on their actions.
 
-Project Link : https://fast-food-app-react.netlify.app/menu
+Project Link : https://fast-food-app-react.netlify.app
