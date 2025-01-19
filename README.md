@@ -3,12 +3,19 @@ FastFood App
 A web application that allows users to browse a menu, order food, prioritize their orders, and track the order status. The app leverages React Router for advanced routing functionality, including nested routes, dynamic routing, and programmatic navigation. Tailwind CSS is used for styling to ensure a responsive and user-friendly design.
 
 Features
+
 Search Orders: Track orders using an Order ID.
+
 Menu Browsing: Browse and order food items from the menu.
+
 Add to Cart: Add selected food items to the cart and proceed to checkout.
+
 Order Prioritization: Prioritize orders with additional charges.
+
 Order Tracking: Use the Order ID to track the status of the order.
+
 Dynamic Routing: Use React Router for handling routes with dynamic parameters, such as Order IDs.
+
 Programmatic Navigation: Implemented programmatic navigation to redirect users after actions like placing an order.
 
 Tech Stack
